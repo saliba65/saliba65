@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saliba65&color=yellow" alt="Profile views" /> </p>
 
  
-- 🔥 I'm passionate about technology and applications, whether to make the community's life better or accelerate businesses and people.
-- I am constantly learning, whether consolidating my current skills or acquiring new fronts, through personal projects and new initiatives with clients.
+- 🔥 I'm passionate about technology and applications, whether to make the community's life better or accelerate businesses and people. I am constantly learning, whether consolidating my current skills or acquiring new fronts, through personal projects and new initiatives with clients.
 
 - 🔭 I’m currently working at [ioasys](https://ioasys.com.br)
 
