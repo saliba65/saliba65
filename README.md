@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [ioasys](https://ioasys.com.br)
 
-- 🌱 I’m currently learning about [Next.js](https://nextjs.org)
+- 🌱 I’m currently learning about [Next.js](https://nextjs.org) and [Node.js](https://nodejs.org/en/)
 
 - 👨‍💻 All of my projects are available at [saliba65.dev](https://github.com/saliba65?tab=repositories)
 
