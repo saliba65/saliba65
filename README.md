@@ -7,9 +7,9 @@
  
 - 🔥 I'm passionate about technology and applications, whether to make the community's life better or accelerate businesses and people. I am constantly learning, whether consolidating my current skills or acquiring new fronts, through personal projects and new initiatives with clients.
 
-- 🔭 I’m currently working at [ioasys](https://ioasys.com.br)
+- 🔭 I’m currently working at [Hotmart](https://www.hotmart.com)
 
-- 🌱 I’m currently learning about [Next.js](https://nextjs.org) and [Node.js](https://nodejs.org/en/)
+- 🌱 I’m currently learning about [Next.js](https://nextjs.org)
 
 - 👨‍💻 All of my projects are available at [saliba65.dev](https://github.com/saliba65?tab=repositories)
 
