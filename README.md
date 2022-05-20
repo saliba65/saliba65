@@ -2,7 +2,7 @@
 
 <h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Saliba</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saliba65&color=yellow" alt="Profile views" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saliba65&color=yellow" alt="Profile views" /> </p> -->
 
  
 - 🔥 I'm passionate about technology and applications, whether to make the community's life better or accelerate businesses and people. I am constantly learning, whether consolidating my current skills or acquiring new fronts, through personal projects and new initiatives with clients.
