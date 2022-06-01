@@ -1,6 +1,7 @@
 <!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/saliba65/22c943d5a1b847f389f6797ff9a27b84/raw/95d108848677d9dd9caa0e4b172426e64463bd68/githubcard.svg"/> -->
+<!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> -->
 
-<h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Saliba</h1>
+<h1 align="left">Hello there, I'm Lucas Saliba</h1>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saliba65&color=yellow" alt="Profile views" /> </p> -->
 
