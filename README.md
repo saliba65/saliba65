@@ -113,13 +113,13 @@
 </p>
 
 <br><br>
-
+<!-- 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=saliba65&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saliba65&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
+</p> -->
 
 
 <!--
